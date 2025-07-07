@@ -1,0 +1,2 @@
+this python code the practise example of library numpy,pandas,matplot
+as coivde daily cases
